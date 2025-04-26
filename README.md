@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shubham Laxman Wagh</h1>
 <h3 align="center">I'm an aspiring System Administrator with hands-on experience in managing Windows and Linux servers, creating backups, and working with virtual machines. I'm currently working as an intern at MKCL and learning something new every day!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamw142&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamw142" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamw143&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamw143" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamw142" alt="shubhamw142" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamw143" alt="shubhamw143" /></a> </p>
 
 - 🔭 I’m currently working on **Learning and improving in system administration (Windows & Linux Servers)**
 
