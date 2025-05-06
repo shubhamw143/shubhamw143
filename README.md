@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Wagh</h1>
-<h3 align="center">My name is Shubham Wagh, and I’m currently working as a System Administrator Intern at MKCL since September 2022. During this time, I’ve gained practical experience in managing Windows and Linux servers, setting up Active Directory, and working with virtualization platforms like Proxmox and Xen. I’ve also handled tasks like server deployment, automated backup using SyncBackPro and OneDrive, and system monitoring using Nagios. Alongside my internship, I’ve started learning Docker to build a strong understanding of containerization and modern deployment techniques. I enjoy automating tasks, troubleshooting technical issues, and continuously improving system efficiency. I’m passionate about IT infrastructure, and I look forward to applying my growing skills in a full-time role where I can contribute meaningfully and keep learning new technologies.</h3>
+<h3 align="center">Passionate about system administration, backup automation, and virtual machines. Always learning, always improving.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamwaghagkmf010&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamwaghagkmf010" /> </p>
 
